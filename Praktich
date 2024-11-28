@@ -1,0 +1,4 @@
+   mkdir my-new-repo
+   cd my-new-repo
+   git init
+   
